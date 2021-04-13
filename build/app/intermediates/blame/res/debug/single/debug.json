@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_icon_launcher.xml.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/icon_launcher.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_icon_new_transaction.xml.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/icon_new_transaction.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_ic_logo.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/ic_logo.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout_custom_dialog.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_splash_icon.xml.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/splash_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_icon_search.xml.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/icon_search.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/king/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/62d16ade2fec84516cbd9f9149a0256f/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

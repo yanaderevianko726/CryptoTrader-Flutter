@@ -1,0 +1,4 @@
+io/flutter/plugins/sharedpreferences/BuildConfig.java
+ io.flutter.plugins.sharedpreferences.BuildConfig
+io/flutter/plugins/sharedpreferences/SharedPreferencesPlugin.java
+ io.flutter.plugins.sharedpreferences.SharedPreferencesPlugin

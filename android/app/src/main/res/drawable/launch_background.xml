@@ -1,0 +1,7 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/launch_background"/>
+    <item android:drawable="@drawable/ic_logo"
+    	android:width="120dp"
+        android:height="120dp"
+        android:gravity="center"/>
+</layer-list>

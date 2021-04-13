@@ -1,0 +1,4 @@
+io/flutter/plugins/pathprovider/BuildConfig.java
+ io.flutter.plugins.pathprovider.BuildConfig
+io/flutter/plugins/pathprovider/PathProviderPlugin.java
+ io.flutter.plugins.pathprovider.PathProviderPlugin

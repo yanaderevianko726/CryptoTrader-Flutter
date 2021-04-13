@@ -1,0 +1,37 @@
+name: Trace
+description: Cryptocurrency portfolio and market explorer.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^0.4.1
+  path_provider: ^0.4.0
+  file_picker: ^2.1.7
+  flutter_circular_chart: ^0.1.0
+  url_launcher: ^3.0.3
+  http: ^0.12.0
+  package_info: ^0.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.7.0
+
+flutter_icons:
+  android: false
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/algos/iTrend.algo
+    - assets/txts/sample.txt

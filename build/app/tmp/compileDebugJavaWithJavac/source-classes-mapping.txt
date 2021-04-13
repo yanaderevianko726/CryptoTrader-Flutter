@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/trentpiercy/trace/MainActivity.java
+ com.trentpiercy.trace.MainActivity
+com/trentpiercy/trace/BuildConfig.java
+ com.trentpiercy.trace.BuildConfig

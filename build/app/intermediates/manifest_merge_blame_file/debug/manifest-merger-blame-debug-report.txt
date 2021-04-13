@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.trentpiercy.trace.debug"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml
+10
+11    <!--
+12         The INTERNET permission is required for development. Specifically,
+13         flutter needs it to communicate with the running application
+14         to allow setting breakpoints, to provide hot reload, etc.
+15    -->
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:10:5-66
+16-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:11:5-79
+17-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:13:5-81
+18-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:14:5-79
+19-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:14:22-77
+20
+21    <queries>
+21-->[:file_picker] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+22        <intent>
+22-->[:file_picker] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
+23            <action android:name="android.intent.action.GET_CONTENT" />
+23-->[:file_picker] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+23-->[:file_picker] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+24
+25            <data android:mimeType="*/*" />
+25-->[:file_picker] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-44
+25-->[:file_picker] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-41
+26        </intent>
+27    </queries>
+28    <!--
+29 io.flutter.app.FlutterApplication is an android.app.Application that
+30         calls FlutterMain.startInitialization(this); in its onCreate method.
+31         In most cases you can leave this as-is, but you if you want to provide
+32         additional functionality it is fine to subclass or reimplement
+33         FlutterApplication and put your custom class here.
+34    -->
+35    <application
+35-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:21:5-44:19
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.1.0] /Users/king/.gradle/caches/transforms-2/files-2.1/ae31cc97a3f9383e0242537d69427d3a/core-1.1.0/AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@drawable/ic_logo"
+38-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:23:9-41
+39        android:label="CodexTrader" >
+39-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:22:9-36
+40        <activity
+40-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:25:9-39:20
+41            android:name="com.trentpiercy.trace.MainActivity"
+41-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:26:13-41
+42            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale"
+42-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:29:13-116
+43            android:hardwareAccelerated="true"
+43-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:30:13-47
+44            android:launchMode="singleTop"
+44-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:27:13-43
+45            android:theme="@style/LaunchTheme"
+45-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:28:13-47
+46            android:windowSoftInputMode="adjustResize" >
+46-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:31:13-55
+47            <meta-data
+47-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:32:13-34:66
+48                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+48-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:33:17-81
+49                android:resource="@drawable/launch_background" />
+49-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:34:17-63
+50
+51            <intent-filter>
+51-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:35:13-38:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:36:17-68
+52-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:36:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:37:17-76
+54-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:37:27-74
+55            </intent-filter>
+56        </activity>
+57
+58        <meta-data
+58-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:41:9-43:33
+59            android:name="flutterEmbedding"
+59-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:42:13-44
+60            android:value="2" />
+60-->/Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/android/app/src/main/AndroidManifest.xml:43:13-30
+61
+62        <activity
+62-->[:url_launcher] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+63            android:name="io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity"
+63-->[:url_launcher] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-92
+64            android:exported="false"
+64-->[:url_launcher] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+65            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+65-->[:url_launcher] /Volumes/Data/Flutter_apps/Netherland_Benjamin/trace-master/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+66    </application>
+67
+68</manifest>
