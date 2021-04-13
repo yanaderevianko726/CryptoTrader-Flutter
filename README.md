@@ -7,7 +7,7 @@ Building for iOS works just fine, but I'm not giving Apple $99 to put this on th
 
 <a href='https://play.google.com/store/apps/details?id=com.trentpiercy.trace&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=75/></a>
 
-<img src="https://raw.githubusercontent.com/borysHozh77/CryptoTrader-Flutter/main/screenshots/gifs/portfolio.gif" width="32%"> <img src="https://raw.githubusercontent.com/borysHozh77/CryptoTrader-Flutter/main/screenshots/screen_2.jpg" width="32%"> <img src="https://raw.githubusercontent.com/borysHozh77/CryptoTrader-Flutter/main/screenshots/screen_3.jpg" width="32%">
+<img src="https://raw.githubusercontent.com/borysHozh77/CryptoTrader-Flutter/main/screenshots/screen_2.jpg" width="32%"> <img src="https://raw.githubusercontent.com/borysHozh77/CryptoTrader-Flutter/main/screenshots/screen_3.jpg" width="32%"> <img src="https://raw.githubusercontent.com/borysHozh77/CryptoTrader-Flutter/main/screenshots/screen_4.jpg" width="32%">
 
 <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/coin_stats.gif" width="49%"> <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/timeline_breakdown.gif" width="49%">
 
